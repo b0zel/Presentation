@@ -1,0 +1,19 @@
+{
+  "slides": {
+    "slider": {
+      "name": "Slider",
+      "template": "slider.html"
+    },
+    "first": {
+      "name": "First",
+      "template": "first.html"
+    }
+  },
+  "chapters": {
+    "main": {
+      "name": "Main chapter",
+      "content": ["first", "slider"]
+    }
+  },
+  "storyboard": ["main"]
+}
